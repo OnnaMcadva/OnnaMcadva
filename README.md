@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on
+
+<p align="center">
+  <img src="https://github.com/OnnaMcadva/42_Prague_ft_printf/assets/94723781/9cc05ee6-80b3-4652-9718-54aa0808c53e">
+</p>
+
 <!--
 **OnnaMcadva/OnnaMcadva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
