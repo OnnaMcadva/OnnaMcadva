@@ -3,7 +3,9 @@
 🔭 I’m currently working on
 
 <p align="center">
-  <img src="https://github.com/OnnaMcadva/42_Prague_ft_printf/assets/94723781/9cc05ee6-80b3-4652-9718-54aa0808c53e">
+  <img src="https://github.com/OnnaMcadva/OnnaMcadva/assets/94723781/a2580b44-23c4-4fdf-ac9b-e942e762451b">
+
+
 </p>
 
 <!--
