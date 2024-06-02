@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Snake animation](https://raw.githubusercontent.com/OnnaMcadva/OnnaMcadva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OnnaMcadva/OnnaMcadva/blob/output/github-contribution-grid-snake.svg)
