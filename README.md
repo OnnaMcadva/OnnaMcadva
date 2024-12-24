@@ -3,7 +3,7 @@
 🔭 I’m currently working on
 
 <p align="center">
-  <img src="https://github.com/OnnaMcadva/OnnaMcadva/assets/94723781/a2580b44-23c4-4fdf-ac9b-e942e762451b">
+  <img src="https://github.com/user-attachments/assets/dd8ef5be-e66c-4726-bee2-0d5057afc8d1">
 
 
 </p>
