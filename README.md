@@ -2,8 +2,11 @@
 
 🔭 I’m currently working on
 
+Graphical Project Ray Tracing
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97d85b37-2453-418d-a52f-ce11cc061cbf">
+  <img src="https://github.com/user-attachments/assets/8ffb4d0c-e79c-4d3b-8fb1-56ad971dbca6">
+
 
 
 
