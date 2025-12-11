@@ -4,12 +4,9 @@
 
 Graphical Project Ray Tracing
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ffb4d0c-e79c-4d3b-8fb1-56ad971dbca6">
-
-
-
-
+  <!-- <img src="https://github.com/user-attachments/assets/8ffb4d0c-e79c-4d3b-8fb1-56ad971dbca6"> -->
 </p>
 
 <!--
@@ -35,3 +32,6 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OnnaMcadva&theme=dracula" />
+</p>
