@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 
-[https://badge.mediaplus.ma/greenbinary/anmakaro](https://badge.mediaplus.ma/greenbinary/anmakaro)
+[42/greenbinary/anmakaro](https://badge.mediaplus.ma/greenbinary/anmakaro)
